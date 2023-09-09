@@ -1,0 +1,1013 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840) (preloaded format=pdflatex 2018.10.10)  19 NOV 2018 18:45
+entering extended mode
+**./Diplomarbeit.tex
+(Diplomarbeit.tex
+LaTeX2e <2018-04-01> patch level 5
+
+("/Users/oliverhovorka/Library/Application Support/MiKTeX/texmfs/install/tex/la
+tex/base/report.cls"
+Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
+
+("/Users/oliverhovorka/Library/Application Support/MiKTeX/texmfs/install/tex/la
+tex/base/size12.clo"
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("/Users/oliverhovorka/Library/Application Support/MiKTeX/texmfs/install/tex/la
+tex/tools/longtable.sty"
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip43
+\LTright=\skip44
+\LTpre=\skip45
+\LTpost=\skip46
+\LTchunksize=\count89
+\LTcapwidth=\dimen103
+\LT@head=\box26
+\LT@firsthead=\box27
+\LT@foot=\box28
+\LT@lastfoot=\box29
+\LT@cols=\count90
+\LT@rows=\count91
+\c@LT@tables=\count92
+\c@LT@chunks=\count93
+\LT@p@ftn=\toks14
+)
+("/Users/oliverhovorka/Library/Application Support/MiKTeX/texmfs/install/tex/la
+tex/lipsum/lipsum.sty"
+Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
+\c@lips@count=\count94
+)
+("/Users/oliverhovorka/Library/Application Support/MiKTeX/texmfs/install/tex/ge
+neric/german/ngerman.sty" v2.5e 1998-07-08
+Package: ngerman 1998/07/08 v2.5e Support for writing german texts (br)
+\grmnU@D=\dimen104
+ngerman -- \language number for USenglish undefined, default 255 used.
+ngerman -- \language number for UKenglish undefined, default 255 used.
+
+ngerman -- \language number for ngerman undefined, default 255 used,
+ngerman -- Please read "gerdoc.tex" how to install hyphenation patterns.
+ngerman -- \language number for naustrian undefined, default 255 used.
+ngerman -- \language number for French undefined, default 255 used.
+)
+("/Users/oliverhovorka/Library/Application Support/MiKTeX/texmfs/install/tex/la
+tex/base/inputenc.sty"
+Package: inputenc 2018/04/06 v1.3b Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+
+("/Users/oliverhovorka/Library/Application Support/MiKTeX/texmfs/install/tex/la
+tex/base/latin1.def"
+File: latin1.def 2018/04/06 v1.3b Input encoding file
+))
+("/Users/oliverhovorka/Library/Application Support/MiKTeX/texmfs/install/tex/la
+tex/psnfss/helvet.sty"
+Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
+
+("/Users/oliverhovorka/Library/Application Support/MiKTeX/texmfs/install/tex/la
+tex/graphics/keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+))
+("/Users/oliverhovorka/Library/Application Support/MiKTeX/texmfs/install/tex/la
+tex/psnfss/courier.sty"
+Package: courier 2005/04/12 PSNFSS-v9.2a (WaS) 
+)
+("/Users/oliverhovorka/Library/Application Support/MiKTeX/texmfs/install/tex/la
+tex/fancyhdr/fancyhdr.sty"
+Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip47
+\f@nch@O@elh=\skip48
+\f@nch@O@erh=\skip49
+\f@nch@O@olh=\skip50
+\f@nch@O@orh=\skip51
+\f@nch@O@elf=\skip52
+\f@nch@O@erf=\skip53
+\f@nch@O@olf=\skip54
+\f@nch@O@orf=\skip55
+)
+("/Users/oliverhovorka/Library/Application Support/MiKTeX/texmfs/install/tex/la
+tex/ntgclass/a4.sty"
+Package: a4 2004/04/15 v1.2g A4 based page layout
+)
+("/Users/oliverhovorka/Library/Application Support/MiKTeX/texmfs/install/tex/la
+tex/base/makeidx.sty"
+Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
+)
+("/Users/oliverhovorka/Library/Application Support/MiKTeX/texmfs/install/tex/la
+tex/listings/listings.sty"
+\lst@mode=\count95
+\lst@gtempboxa=\box30
+\lst@token=\toks18
+\lst@length=\count96
+\lst@currlwidth=\dimen105
+\lst@column=\count97
+\lst@pos=\count98
+\lst@lostspace=\dimen106
+\lst@width=\dimen107
+\lst@newlines=\count99
+\lst@lineno=\count100
+\lst@maxwidth=\dimen108
+
+("/Users/oliverhovorka/Library/Application Support/MiKTeX/texmfs/install/tex/la
+tex/listings/lstmisc.sty"
+File: lstmisc.sty 2018/09/02 1.7 (Carsten Heinz)
+\c@lstnumber=\count101
+\lst@skipnumbers=\count102
+\lst@framebox=\box31
+)
+("/Users/oliverhovorka/Library/Application Support/MiKTeX/texmfs/install/tex/la
+tex/listings/listings.cfg"
+File: listings.cfg 2018/09/02 1.7 listings configuration
+))
+Package: listings 2018/09/02 1.7 (Carsten Heinz)
+
+("/Users/oliverhovorka/Library/Application Support/MiKTeX/texmfs/install/tex/la
+tex/graphics/color.sty"
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+("/Users/oliverhovorka/Library/Application Support/MiKTeX/texmfs/install/tex/la
+tex/graphics-cfg/color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+
+("/Users/oliverhovorka/Library/Application Support/MiKTeX/texmfs/install/tex/la
+tex/graphics-def/pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+("/Users/oliverhovorka/Library/Application Support/MiKTeX/texmfs/install/tex/la
+tex/setspace/setspace.sty"
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+("/Users/oliverhovorka/Library/Application Support/MiKTeX/texmfs/install/tex/la
+tex/graphics/graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("/Users/oliverhovorka/Library/Application Support/MiKTeX/texmfs/install/tex/la
+tex/graphics/graphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("/Users/oliverhovorka/Library/Application Support/MiKTeX/texmfs/install/tex/la
+tex/graphics/trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("/Users/oliverhovorka/Library/Application Support/MiKTeX/texmfs/install/tex/la
+tex/graphics-cfg/graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+)
+\Gin@req@height=\dimen109
+\Gin@req@width=\dimen110
+)
+("/Users/oliverhovorka/Library/Application Support/MiKTeX/texmfs/install/tex/la
+tex/sectsty/sectsty.sty"
+Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
+les
+)
+("/Users/oliverhovorka/Library/Application Support/MiKTeX/texmfs/install/tex/la
+tex/hyperref/hyperref.sty"
+Package: hyperref 2018/09/30 v6.88a Hypertext links for LaTeX
+
+("/Users/oliverhovorka/Library/Application Support/MiKTeX/texmfs/install/tex/ge
+neric/oberdiek/hobsub-hyperref.sty"
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+("/Users/oliverhovorka/Library/Application Support/MiKTeX/texmfs/install/tex/ge
+neric/oberdiek/hobsub-generic.sty"
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+("/Users/oliverhovorka/Library/Application Support/MiKTeX/texmfs/install/tex/ge
+neric/ifxetex/ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+("/Users/oliverhovorka/Library/Application Support/MiKTeX/texmfs/install/tex/la
+tex/oberdiek/auxhook.sty"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+("/Users/oliverhovorka/Library/Application Support/MiKTeX/texmfs/install/tex/la
+tex/oberdiek/kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen111
+\Hy@linkcounter=\count103
+\Hy@pagecounter=\count104
+
+("/Users/oliverhovorka/Library/Application Support/MiKTeX/texmfs/install/tex/la
+tex/hyperref/pd1enc.def"
+File: pd1enc.def 2018/09/30 v6.88a Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count105
+
+("/Users/oliverhovorka/Library/Application Support/MiKTeX/texmfs/install/tex/la
+tex/00miktex/hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4535.
+Package hyperref Info: Link nesting OFF on input line 4540.
+Package hyperref Info: Hyper index ON on input line 4543.
+Package hyperref Info: Plain pages OFF on input line 4550.
+Package hyperref Info: Backreferencing OFF on input line 4555.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4788.
+\c@Hy@tempcnt=\count106
+
+("/Users/oliverhovorka/Library/Application Support/MiKTeX/texmfs/install/tex/la
+tex/url/url.sty"
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5141.
+\XeTeXLinkMargin=\dimen112
+\Fld@menulength=\count107
+\Field@Width=\dimen113
+\Fld@charsize=\dimen114
+Package hyperref Info: Hyper figures OFF on input line 6396.
+Package hyperref Info: Link nesting OFF on input line 6401.
+Package hyperref Info: Hyper index ON on input line 6404.
+Package hyperref Info: backreferencing OFF on input line 6411.
+Package hyperref Info: Link coloring OFF on input line 6416.
+Package hyperref Info: Link coloring with OCG OFF on input line 6421.
+Package hyperref Info: PDF/A mode OFF on input line 6426.
+LaTeX Info: Redefining \ref on input line 6466.
+LaTeX Info: Redefining \pageref on input line 6470.
+\Hy@abspage=\count108
+\c@Item=\count109
+\c@Hfootnote=\count110
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+("/Users/oliverhovorka/Library/Application Support/MiKTeX/texmfs/install/tex/la
+tex/hyperref/hpdftex.def"
+File: hpdftex.def 2018/09/30 v6.88a Hyperref driver for pdfTeX
+\Fld@listcount=\count111
+\c@bookmark@seq@number=\count112
+
+("/Users/oliverhovorka/Library/Application Support/MiKTeX/texmfs/install/tex/la
+tex/oberdiek/rerunfilecheck.sty"
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip56
+)
+("/Users/oliverhovorka/Library/Application Support/MiKTeX/texmfs/install/tex/la
+tex/float/float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count113
+\float@exts=\toks19
+\float@box=\box32
+\@float@everytoks=\toks20
+\@floatcapt=\box33
+)
+("/Users/oliverhovorka/Library/Application Support/MiKTeX/texmfs/install/tex/la
+tex/pdfpages/pdfpages.sty"
+Package: pdfpages 2017/10/31 v0.5l Insert pages of external PDF documents (AM)
+
+("/Users/oliverhovorka/Library/Application Support/MiKTeX/texmfs/install/tex/la
+tex/base/ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("/Users/oliverhovorka/Library/Application Support/MiKTeX/texmfs/install/tex/la
+tex/tools/calc.sty"
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count114
+\calc@Bcount=\count115
+\calc@Adimen=\dimen115
+\calc@Bdimen=\dimen116
+\calc@Askip=\skip57
+\calc@Bskip=\skip58
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count116
+\calc@Cskip=\skip59
+)
+("/Users/oliverhovorka/Library/Application Support/MiKTeX/texmfs/install/tex/la
+tex/eso-pic/eso-pic.sty"
+Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
+)
+\AM@pagewidth=\dimen117
+\AM@pageheight=\dimen118
+
+("/Users/oliverhovorka/Library/Application Support/MiKTeX/texmfs/install/tex/la
+tex/pdfpages/pppdftex.def"
+File: pppdftex.def 2017/10/31 v0.5l Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box34
+\AM@global@opts=\toks21
+\AM@toc@title=\toks22
+\c@AM@survey=\count117
+\AM@templatesizebox=\box35
+)
+("/Users/oliverhovorka/Library/Application Support/MiKTeX/texmfs/install/tex/la
+tex/caption/caption.sty"
+Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
+
+("/Users/oliverhovorka/Library/Application Support/MiKTeX/texmfs/install/tex/la
+tex/caption/caption3.sty"
+Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 64.
+\captionmargin=\dimen119
+\captionmargin@=\dimen120
+\captionwidth=\dimen121
+\caption@tempdima=\dimen122
+\caption@indent=\dimen123
+\caption@parindent=\dimen124
+\caption@hangindent=\dimen125
+)
+\c@caption@flags=\count118
+\c@ContinuedFloat=\count119
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: longtable package is loaded.
+
+("/Users/oliverhovorka/Library/Application Support/MiKTeX/texmfs/install/tex/la
+tex/caption/ltcaption.sty"
+Package: ltcaption 2018/08/26 v1.4-95 longtable captions (AR)
+))
+("/Users/oliverhovorka/Library/Application Support/MiKTeX/texmfs/install/tex/la
+tex/tools/verbatim.sty"
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks23
+\verbatim@line=\toks24
+\verbatim@in@stream=\read1
+)
+("/Users/oliverhovorka/Library/Application Support/MiKTeX/texmfs/install/tex/la
+tex/placeins/placeins.sty"
+Package: placeins 2005/04/18  v 2.2
+)
+("/Users/oliverhovorka/Library/Application Support/MiKTeX/texmfs/install/tex/la
+tex/listings/lstlang1.sty"
+File: lstlang1.sty 2018/09/02 1.7 listings language file
+) (Diplomarbeit.aux)
+\openout1 = `Diplomarbeit.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 132.
+LaTeX Font Info:    ... okay on input line 132.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 132.
+LaTeX Font Info:    ... okay on input line 132.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 132.
+LaTeX Font Info:    ... okay on input line 132.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 132.
+LaTeX Font Info:    ... okay on input line 132.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 132.
+LaTeX Font Info:    ... okay on input line 132.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 132.
+LaTeX Font Info:    ... okay on input line 132.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 132.
+LaTeX Font Info:    ... okay on input line 132.
+\c@lstlisting=\count120
+
+("/Users/oliverhovorka/Library/Application Support/MiKTeX/texmfs/install/tex/co
+ntext/base/supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count121
+\scratchdimen=\dimen126
+\scratchbox=\box36
+\nofMPsegments=\count122
+\nofMParguments=\count123
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count124
+\MPscratchDim=\dimen127
+\MPnumerator=\count125
+\makeMPintoPDFobject=\count126
+\everyMPtoPDFconversion=\toks26
+)
+("/Users/oliverhovorka/Library/Application Support/MiKTeX/texmfs/install/tex/la
+tex/oberdiek/epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("/Users/oliverhovorka/Library/Application Support/MiKTeX/texmfs/install/tex/la
+tex/oberdiek/grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+\AtBeginShipoutBox=\box37
+Package hyperref Info: Link coloring OFF on input line 132.
+
+("/Users/oliverhovorka/Library/Application Support/MiKTeX/texmfs/install/tex/la
+tex/hyperref/nameref.sty"
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+("/Users/oliverhovorka/Library/Application Support/MiKTeX/texmfs/install/tex/ge
+neric/oberdiek/gettitlestring.sty"
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count127
+)
+LaTeX Info: Redefining \ref on input line 132.
+LaTeX Info: Redefining \pageref on input line 132.
+LaTeX Info: Redefining \nameref on input line 132.
+ (Diplomarbeit.out) (Diplomarbeit.out)
+\@outlinefile=\write3
+\openout3 = `Diplomarbeit.out'.
+
+
+("/Users/oliverhovorka/Library/Application Support/MiKTeX/texmfs/install/tex/la
+tex/oberdiek/pdflscape.sty"
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
+
+("/Users/oliverhovorka/Library/Application Support/MiKTeX/texmfs/install/tex/la
+tex/graphics/lscape.sty"
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 133.
+
+
+("/Users/oliverhovorka/Library/Application Support/MiKTeX/texmfs/install/tex/la
+tex/psnfss/ot1phv.fd"
+File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
+) (textparts/titel.tex
+<images/HTLstp-RGB.png, id=67, 255.95625pt x 117.43875pt>
+File: images/HTLstp-RGB.png Graphic file (type png)
+<use images/HTLstp-RGB.png>
+Package pdftex.def Info: images/HTLstp-RGB.png  used on input line 6.
+(pdftex.def)             Requested size: 102.38068pt x 46.97466pt.
+<images/HTL.jpg, id=69, 660.21657pt x 285.31593pt>
+File: images/HTL.jpg Graphic file (type jpg)
+<use images/HTL.jpg>
+Package pdftex.def Info: images/HTL.jpg  used on input line 15.
+(pdftex.def)             Requested size: 66.02551pt x 28.53326pt.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 25.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <24.88> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 34.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 40.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 47.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 47.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 47.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 49.
+) [1
+
+{/Users/oliverhovorka/Library/Application Support/MiKTeX/texmfs/data/pdftex/con
+fig/pdftex.map} <./images/HTLstp-RGB.png> <./images/HTL.jpg>] (Diplomarbeit.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 3.
+)
+\tf@toc=\write4
+\openout4 = `Diplomarbeit.toc'.
+
+ [1
+
+
+] (textparts/uebersicht.tex
+Kapitel 1.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 4.
+
+Overfull \hbox (7.62968pt too wide) in paragraph at lines 6--8
+\OT1/phv/m/n/12 Das Ziel dieser Diplomarbeit ist es diverse REST-APIs aus zu we
+rten und zu entscheiden
+ []
+
+
+Overfull \hbox (51.46417pt too wide) in paragraph at lines 6--8
+\OT1/phv/m/n/12 welches f[]ur das Projekt CarSharing am besten geeignet ist. De
+r Architektur Stil 'Representational
+ []
+
+
+Overfull \hbox (15.52454pt too wide) in paragraph at lines 6--8
+\OT1/phv/m/n/12 '[]Architectural Styles and the Design of Network-based Softwar
+e Architectures\ hergeleitet.
+ []
+
+ngerman: "CK is now obsolete, please use CK instead on input line 11.
+ngerman: "PP is now obsolete, please use PPP instead on input line 11.
+
+Overfull \hbox (10.76115pt too wide) in paragraph at lines 11--12
+\OT1/phv/m/n/12 Prozent trennt, die Trennung dieser Zwei zusammenarbeitenden Sy
+steme bringt mehrere
+ []
+
+
+Overfull \hbox (0.72885pt too wide) in paragraph at lines 11--12
+\OT1/phv/m/n/12 zweite Vorteil ist die M[]oglichkeit die beiden Komponenten abs
+olut voneinander getrennt
+ []
+
+
+Overfull \hbox (5.24097pt too wide) in paragraph at lines 15--16
+\OT1/phv/m/n/12 zum Verarbeiten dieser Anfrage beinhalten muss. Der Server darf
+ nicht auf gespeicherte
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.16 			
+         [1
+
+
+]
+Overfull \hbox (3.38126pt too wide) in paragraph at lines 26--27
+[]\OT1/phv/m/n/12 Jedoch hat die Zustandslosigkeit nicht nur Vorteile, sondern 
+auch einen groen Nachteil
+ []
+
+
+Overfull \hbox (19.14929pt too wide) in paragraph at lines 29--31
+\OT1/phv/m/n/12 die Konsistenz des Systems nicht v[]ollig gew[]ahrleistet werde
+n. Es liegt daher am Entwickler
+ []
+
+[2]
+Overfull \hbox (23.70891pt too wide) in paragraph at lines 36--37
+\OT1/phv/m/n/12 zust[]andig. Es wird den Entwicklern erm[]oglicht bereits ferti
+ge Codesegmente zu verwenden.
+ []
+
+
+Overfull \hbox (28.14854pt too wide) in paragraph at lines 36--37
+\OT1/phv/m/n/12 Dadurch werden Fehlerquellen deutlich reduziert und die Impleme
+ntierung erfolgt wesentlich
+ []
+
+
+Overfull \hbox (20.40717pt too wide) in paragraph at lines 38--39
+\OT1/phv/m/n/12 it does have a purpose in the architectural design of a system 
+that encompasses
+ []
+
+
+Overfull \hbox (18.71384pt too wide) in paragraph at lines 38--39
+\OT1/phv/m/n/12 [[]] 
+ []
+
+[3]
+Kapitel 2.
+
+Overfull \hbox (13.12463pt too wide) in paragraph at lines 59--60
+\OT1/phv/m/n/12 Entwicklung. In der Kategorie Allgemeines wird behandelt ob es 
+Hilfestellungen (Tutorials,
+ []
+
+[4
+
+]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 91.
+
+
+Underfull \hbox (badness 1688) in paragraph at lines 97--98
+[]\OT1/cmr/m/n/12 Bei dieser Kategorie ist die
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--98
+\OT1/cmr/m/n/12 Gewichtung eher niedrig
+ []
+
+
+Underfull \hbox (badness 2726) in paragraph at lines 97--98
+\OT1/cmr/m/n/12 zu gewissen APIs aus dem
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--98
+
+ []
+
+
+Underfull \hbox (badness 2951) in paragraph at lines 100--101
+[]\OT1/cmr/m/n/12 Diese Kategorie wurde sehr
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
+\OT1/cmr/m/n/12 hoch gewichtet, da die
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
+\OT1/cmr/m/n/12 Dokumentation eines APIs
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
+
+ []
+
+
+Underfull \hbox (badness 3049) in paragraph at lines 103--104
+[]\OT1/cmr/m/n/12 Hier wurde die Gewichtung
+ []
+
+
+Underfull \hbox (badness 1418) in paragraph at lines 103--104
+\OT1/cmr/m/n/12 das Budget f[]ur das Projekt
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
+
+ []
+
+
+Underfull \hbox (badness 1688) in paragraph at lines 106--107
+[]\OT1/cmr/m/n/12 Bei dieser Kategorie ist die
+ []
+
+
+Underfull \hbox (badness 7081) in paragraph at lines 106--107
+\OT1/cmr/m/n/12 da einem eine Community
+ []
+
+
+Underfull \hbox (badness 2277) in paragraph at lines 106--107
+\OT1/cmr/m/n/12 bei Problemen jeglicher Art
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--107
+
+ []
+
+
+Overfull \hbox (38.26772pt too wide) in paragraph at lines 93--111
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--111
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--111
+
+ []
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 113.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
+[]\OT1/cmr/m/n/12 Welche
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
+\OT1/cmr/m/n/12 Entwicklungsumgebungen
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
+[]\OT1/cmr/m/n/12 Bei dieser Kategorie ist die
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
+\OT1/cmr/m/n/12 Gewichtung mittig angesetzt, da
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
+\OT1/cmr/m/n/12 es eine wenige wirklich schlechte
+ []
+
+
+Underfull \hbox (badness 2096) in paragraph at lines 121--122
+\OT1/cmr/m/n/12 Entwicklungsumgebungen gibt jedoch
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
+
+ []
+
+
+Underfull \hbox (badness 7451) in paragraph at lines 124--125
+[]\OT1/cmr/m/n/12 Kann man mit dem API
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
+\OT1/cmr/m/n/12 einen Standalone - Server
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+
+ []
+
+
+Underfull \hbox (badness 2573) in paragraph at lines 130--131
+[]\OT1/cmr/m/n/12 In welchen Betriebssystemen
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--131
+\OT1/cmr/m/n/12 beziehungsweise in welchen
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--131
+\OT1/cmr/m/n/12 Umgebungen kann dieser
+ []
+
+
+Underfull \hbox (badness 3417) in paragraph at lines 132--133
+\OT1/cmr/m/n/12 verwendet. Daher w[]are es m[]uhsam
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--133
+\OT1/cmr/m/n/12 einen Server mit einem anderen
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--133
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--137
+[]\OT1/cmr/m/n/12 Was f[]ur Hardware
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--137
+\OT1/cmr/m/n/12 ben[]otigen die Server um
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--139
+\OT1/cmr/m/n/12 niedrig angesetzt, da der bereits
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--139
+\OT1/cmr/m/n/12 vorhandene Server ziemlich gute
+ []
+
+
+Underfull \hbox (badness 1253) in paragraph at lines 138--139
+\OT1/cmr/m/n/12 Hardware besitzt. Daher ist es eher
+ []
+
+
+Underfull \hbox (badness 5667) in paragraph at lines 138--139
+\OT1/cmr/m/n/12 unwahrscheinlich, dass ein Upgrade
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--139
+
+ []
+
+
+Underfull \hbox (badness 1383) in paragraph at lines 142--143
+[]\OT1/cmr/m/n/12 Welche Java Version ist die
+ []
+
+
+Underfull \hbox (badness 1810) in paragraph at lines 142--143
+\OT1/cmr/m/n/12 minimale die von dem API
+ []
+
+
+Underfull \hbox (badness 2020) in paragraph at lines 144--145
+\OT1/cmr/m/n/12 Es w[]are daher nur wichtig f[]ur die
+ []
+
+
+Underfull \hbox (badness 2503) in paragraph at lines 144--145
+\OT1/cmr/m/n/12 R[]uckwertskompatibilit[]at und das ist
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--145
+
+ []
+
+
+Underfull \hbox (badness 4168) in paragraph at lines 148--149
+[]\OT1/cmr/m/n/12 Gibt es zur Hilfe bei der
+ []
+
+
+Underfull \hbox (badness 4634) in paragraph at lines 150--151
+\OT1/cmr/m/n/12 bedarf in dem Projekt CarSharing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
+
+ []
+
+
+Overfull \hbox (34.50763pt too wide) in paragraph at lines 115--154
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--154
+
+ []
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 155.
+
+
+Underfull \hbox (badness 2799) in paragraph at lines 165--166
+[]\OT1/cmr/m/n/12 Hier ist die Gewichtung sehr hoch
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--166
+\OT1/cmr/m/n/12 ausgefallen, da in dem Projekt
+ []
+
+
+Underfull \hbox (badness 4242) in paragraph at lines 165--166
+\OT1/cmr/m/n/12 CarSharing eine mobile Applikation
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--166
+
+ []
+
+
+Underfull \hbox (badness 1810) in paragraph at lines 169--170
+\OT1/cmr/m/n/12 minimale die von dem API
+ []
+
+
+Underfull \hbox (badness 2503) in paragraph at lines 171--172
+\OT1/cmr/m/n/12 R[]uckwertskompatibilit[]at und das ist
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--176
+[]\OT1/cmr/m/n/12 Bietet das API spezielle
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--176
+\OT1/cmr/m/n/12 Funktionalit[]aten f[]ur das
+ []
+
+
+Underfull \hbox (badness 2126) in paragraph at lines 177--178
+\OT1/cmr/m/n/12 Feature ein wirklich aussagekr[]aftiger
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--178
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--181
+
+ []
+
+
+Overfull \hbox (34.50763pt too wide) in paragraph at lines 156--181
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--181
+
+ []
+
+[5] [6] [7] [8]
+Overfull \hbox (12.99316pt too wide) in paragraph at lines 186--188
+\OT1/phv/m/n/12 zusammen. Hier wird nun aufgestellt ab wie vielen Punkten welch
+e Gesamtnote vergeben
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 186--188
+
+ []
+
+) [9
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 250--254
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 255--258
+[]
+ []
+
+[10
+
+
+]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 263.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 263.
+ (Diplomarbeit.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 263.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 263.
+Package rerunfilecheck Info: File `Diplomarbeit.out' has not changed.
+(rerunfilecheck)             Checksum: 1010CD726B9679F9FC1ACE4F4E1EBD5D;987.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 263.
+ ) 
+Here is how much of TeX's memory you used:
+ 9257 strings out of 494889
+ 145538 string characters out of 3176476
+ 532093 words of memory out of 3000000
+ 12692 multiletter control sequences out of 15000+200000
+ 22358 words of font info for 49 fonts, out of 3000000 for 9000
+ 0 hyphenation exceptions out of 8191
+ 36i,11n,43p,1007b,416s stack positions out of 5000i,500n,10000p,200000b,50000s
+ </Users/oliverhovorka/Library/Application Support/MiKTeX/texmfs/data/fonts/p
+k/ljfour/public/cm/dpi600/cmr8.pk> </Users/oliverhovorka/Library/Application Su
+pport/MiKTeX/texmfs/data/fonts/pk/ljfour/public/cm/dpi600/cmsl12.pk> </Users/ol
+iverhovorka/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/publ
+ic/cm/dpi600/cmr12.pk>{/Users/oliverhovorka/Library/Application Support/MiKTeX/
+texmfs/install/fonts/enc/dvips/base/8r.enc}</Users/oliverhovorka/Library/Applic
+ation Support/MiKTeX/texmfs/install/fonts/type1/urw/helvetic/uhvb8a.pfb></Users
+/oliverhovorka/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/ur
+w/helvetic/uhvr8a.pfb>
+Output written on Diplomarbeit.pdf (12 pages, 143104 bytes).
+PDF statistics:
+ 316 PDF objects out of 1000 (max. 8388607)
+ 51 named destinations out of 1000 (max. 500000)
+ 139 words of extra memory for PDF output out of 10000 (max. 10000000)
+

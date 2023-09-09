@@ -1,0 +1,16 @@
+\contentsline {chapter}{Inhaltsverzeichnis}{i}{Doc-Start}
+\contentsline {chapter}{\numberline {1}Einleitung}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Entstehung von REST}{1}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Client-Server-Architektur}{1}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}Zustandslosigkeit}{2}{subsection.1.1.2}
+\contentsline {subsection}{\numberline {1.1.3}Cache}{2}{subsection.1.1.3}
+\contentsline {subsection}{\numberline {1.1.4}Einheitliche Schnittstellen}{3}{subsection.1.1.4}
+\contentsline {subsection}{\numberline {1.1.5}Code-On-Demand}{3}{subsection.1.1.5}
+\contentsline {section}{\numberline {1.2}Gliederung}{3}{section.1.2}
+\contentsline {chapter}{\numberline {2}Kriterien}{4}{chapter.2}
+\contentsline {section}{\numberline {2.1}Allgemeines}{4}{section.2.1}
+\contentsline {section}{\numberline {2.2}Entwicklung}{5}{section.2.2}
+\contentsline {section}{\numberline {2.3}Benotung}{5}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Gewichtung}{5}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Notenskala}{9}{subsection.2.3.2}
+\contentsline {section}{Literaturverzeichnis}{10}{table.caption.6}

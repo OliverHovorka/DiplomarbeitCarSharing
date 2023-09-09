@@ -1,0 +1,116 @@
+\chapter{Kriterien} \label{Kriterien}
+	
+	In diesem Kapitel wird festgelegt welche genauen Kriterien bei jedem API untersucht und bewertet werden. Es wird zu jedem API zuerst eine Auswertung der Kriterien und danach eine Benotung geben. Weiters wird bestimmt wie die einzelnen Noten (1-4) strukturiert sind. Die Kriterien werden aufgeteilt in 3 Kategorien: Allgemeines, Entwicklung. In der Kategorie Allgemeines wird behandelt ob es Hilfestellungen (Tutorials, Codeexemplare, usw.) gibt und es wird der momentane Zustand des APIs beschrieben. Die Kategorie Entwicklung beschäftigt sich damit wie die Entwicklungsumgebungen der diversen APIs aufgebaut sind. Ebenfalls werden hier die Software und Hardware Voraussetzungen für die diversen APIs beschrieben. 
+	
+	\section{Allgemeines}
+		\begin{enumerate}
+			\item Gibt es Hilfen zum erlernen des APIs?
+			\subitem Wenn ja, welche sind vorhanden?
+			\item Wie gut ist das API Dokumentiert?
+			\item Braucht man eine Lizenz für das API?
+			\subitem Wenn ja, unter welchen Kosten ist das API verfügbar?
+			\item Gibt es eine Community für dieses API?
+			\subitem Wenn ja, ist diese Community aktiv und/oder hilfsbereit? 
+		\end{enumerate}
+	
+	\section{Entwicklung}
+		\begin{enumerate}
+			\item Welche Entwicklungsumgebungen gibt es für das API?
+			\item Kann man mit dem API einen Standalone - Server programmieren?
+			\item In welchen Betriebssystemen beziehungsweise in welchen Umgebungen kann der Server ausgeführt werden?
+			\item Was für Hardware benötigen die Server um zu Funktionieren?
+			\item Welche Java Version ist die minimale die von dem API unterstützt wird?
+			\item Gibt es zur Hilfe bei der Modellierung Grafische Tools?
+			\item Ist es möglich mit dem API einen Client zu entwickeln?
+			\subitem Wenn ja, gibt es Möglichkeiten sich Teile des Clients generieren zu lassen?
+			\item Welche Android SDK ist die minimale die von dem API unterstützt wird?
+			\item Bietet das API spezielle Funktionalitäten für das Projekt CarSharing?
+		\end{enumerate}
+	
+	\section{Benotung}
+		Das Ziel dieser Diplomarbeit ist es das beste API für das Projekt CarSharing aus zu werten. Daher wird jede Benotungskategorie mit einer Gewichtung unter besonderer Beachtung des Projekts versehen. Abhängige Kindkategorien werden jedoch nicht gewichtet und bekommen auch keine Note, da sie beim Elternpunkt mit in die Noten einbezogen werden. Es gibt auch zu jeder Gewichtung eine Beschreibung warum diese so gewählt wurde. Diese Gewichtung wird sich im Rahmen von 1-5, wobei 5 das beste ist, bewegen. Bei der Bewertung der einzelnen APIs wird jede Kategorie eine Note bekommen. Diese Noten werden sich ebenfalls von 1-5, wobei 5 hier auch das beste ist, bewegen. Weiters wird es zu jeder Kategorie eine Analyse geben aus welcher  die Noten dann hervorgeht.
+		\pagebreak
+		
+		\subsection{Gewichtung}
+			\begin{table}[]
+				Allgemein: \\
+				\\
+				\begin{tabular}{|l|l|l|l|}
+					\hline
+					Nr. & Bezeichnung& Gewichtung & Begründung\\
+					\hline
+					1   & Gibt es Hilfen zum erlernen des APIs? & 2& \begin{minipage}[t]{0.35\columnwidth} Bei dieser Kategorie ist die Gewichtung eher niedrig angesetzt da bereits Vorwissen zu gewissen APIs aus dem Unterricht besteht.\\
+					\end{minipage}\\
+					\hline
+					2   & Wie gut ist das API Dokumentiert? & 5 & \begin{minipage}[t]{0.35\columnwidth} Diese Kategorie wurde sehr hoch gewichtet, da die Dokumentation eines APIs extrem wichtig ist um das API zu verstehen.\\
+					\end{minipage}\\
+					\hline
+					3   & Braucht man eine Lizenz für das API?  & 4 & \begin{minipage}[t]{0.35\columnwidth} Hier wurde die Gewichtung auch relativ hoch gewählt, da das Budget für das Projekt CarSharing sehr minimal bis nicht existent ist.\\ 
+					\end{minipage}\\
+					\hline
+					4 & Gibt es eine Community für dieses API? & 3 & \begin{minipage}[t]{0.35\columnwidth} Bei dieser Kategorie ist die Gewichtung mittig angesetzt, da einem eine Community bei Problemen jeglicher Art immens weiterhelfen kann.\\
+					\end{minipage}\\                      
+					\hline
+				\end{tabular}\\
+				\\
+				\\
+				Entwicklung:\\
+				\\
+				\begin{tabular}{|l|l|l|l|}
+					\hline
+					Nr. & Bezeichnung& Gewichtung & Begründung\\
+					\hline
+					1 & \begin{minipage}[t]{0.35\columnwidth} Welche Entwicklungsumgebungen gibt es für das API? 
+					\end{minipage}& 3 & 
+					\begin{minipage}[t]{0.45\columnwidth} Bei dieser Kategorie ist die Gewichtung mittig angesetzt, da es eine wenige wirklich schlechte Entwicklungsumgebungen gibt jedoch genau so wenig wirklich gute.\\
+					\end{minipage}\\
+					\hline
+					2 & \begin{minipage}[t]{0.35\columnwidth} Kann man mit dem API einen Standalone - Server programmieren? 
+					\end{minipage}& 5 & 
+					\begin{minipage}[t]{0.45\columnwidth} Hier wurde die Gewichtung sehr hoch angesetzt, denn es würde das Projekt wesentlich mühsamer machen wenn der Server immer von etwas abhängig wäre.\\
+					\end{minipage}\\
+					\hline
+					3 & 
+					\begin{minipage}[t]{0.35\columnwidth} In welchen Betriebssystemen beziehungsweise in welchen Umgebungen kann dieser ausgeführt werden? 
+					\end{minipage}& 4 & 
+					\begin{minipage}[t]{0.45\columnwidth} Diese Kategorie wurde hoch gewichtet, da der bereits vorhandene Server Linux verwendet. Daher wäre es mühsam einen Server mit einem anderen Betriebssystem.\\
+					\end{minipage}\\
+					\hline
+					4 & 
+					\begin{minipage}[t]{0.35\columnwidth} Was für Hardware benötigen die Server um zu Funktionieren?
+					\end{minipage}& 2 & 
+					\begin{minipage}[t]{0.45\columnwidth} Bei dieser Kategorie ist die Gewichtung niedrig angesetzt, da der bereits vorhandene Server ziemlich gute Hardware besitzt. Daher ist es eher unwahrscheinlich, dass ein Upgrade notwendig ist.\\
+					\end{minipage}\\
+					\hline
+					5 &
+					\begin{minipage}[t]{0.35\columnwidth} Welche Java Version ist die minimale die von dem API unterstützt wird?
+					\end{minipage}& 1 &
+					\begin{minipage}[t]{0.45\columnwidth} Hier ist die Gewichtung sehr niedrig festgelegt, da das Projekt in einer sehr neuen Java Version programmiert wird. Es wäre daher nur wichtig für die Rückwertskompatibilität und das ist auch eher irrelevant, da die Software nur auf neueren Geräten laufen wird.\\
+					\end{minipage}\\
+					\hline
+					6 &
+					\begin{minipage}[t]{0.35\columnwidth} Gibt es zur Hilfe bei der Modellierung Grafische Tools?
+					\end{minipage}& 3 &
+					\begin{minipage}[t]{0.45\columnwidth} Diese Kategorie ist mittig gewichtet, da es einerseits nicht viel Modellierung bedarf in dem Projekt CarSharing und andererseits ist es immer gut sich Software zuerst grafisch zu Visualisieren.\\
+					\end{minipage}\\
+					\hline
+					7 &
+					\begin{minipage}[t]{0.35\columnwidth} Ist es möglich mit dem API einen Client zu entwickeln? 
+					\end{minipage}& 5 &
+					\begin{minipage}[t]{0.45\columnwidth} Hier ist die Gewichtung sehr hoch ausgefallen, da in dem Projekt CarSharing eine mobile Applikation entwickelt wird welche als Client den REST-Service abfragt.\\
+					\end{minipage}\\
+					\hline
+					8 &
+					\begin{minipage}[t]{0.35\columnwidth} Welche Android SDK ist die minimale die von dem API unterstützt wird?
+					\end{minipage}& 3 &
+					\begin{minipage}[t]{0.45\columnwidth} Hier ist die Gewichtung sehr niedrig festgelegt, da das Projekt in einer sehr neuen Android Version programmiert wird. Es wäre daher nur wichtig für die Rückwertskompatibilität und das ist auch eher irrelevant, da die Software nur auf neueren Geräten laufen wird.\\
+					\end{minipage}\\
+					\hline
+					9 &
+					\begin{minipage}[t]{0.35\columnwidth} Bietet das API spezielle Funktionalitäten für das Projekt CarSharing? 
+					\end{minipage}& 5 &
+					\begin{minipage}[t]{0.45\columnwidth} Bei dieser Kategorie ist die Gewichtung sehr hoch, da eine solche Funktionalität die Entwicklung des Projekts massiv erleichtern würde. Daher wäre ein solche Feature ein wirklich aussagekräftiger Grund dieses API zu wählen.\\
+					\end{minipage}\\
+					\hline
+			    \end{tabular}\\
+			\end{table}
